@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://cdn.imgpile.com/f/eMHqY3b_xl.png">
+  <img src="https://cdn.imgpile.com/f/eMHqY3b_xl.png">
 </p>
 
 ## 🌟 About Sahara Scripters
