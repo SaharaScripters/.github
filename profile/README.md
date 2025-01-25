@@ -14,8 +14,19 @@ Welcome to Sahara Scripters! We create high-quality free and premuim scripts for
 🔍 **Explore our [Documentation](https://saharascripters.gitbook.io/docs)** for everything you need to get started with our scripts and tools. 📚 Stay informed and make the most out of what we offer!
 
 ## 🌐 Connect With Us
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kQxzuyqnkR)
-[![X](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/saharascripters)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/groups/896847759004543)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@saharascripters)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saharascripters)
+<a href="https://discord.gg/kQxzuyqnkR" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://x.com/saharascripters" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
+<a href="https://www.facebook.com/groups/896847759004543" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.youtube.com/@saharascripters" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://ko-fi.com/saharascripters" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
+</a>
+
