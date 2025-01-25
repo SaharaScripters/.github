@@ -4,25 +4,14 @@
 
 ## 🌟 About Sahara Scripters
 
-Welcome to **Sahara Scripters**, where creativity meets functionality!  
-We specialize in developing high-quality scripts and tools for **FiveM Servers**, designed to elevate your gameplay experience. Whether you're building a unique roleplay server or enhancing your community, our innovative solutions are tailored to meet your needs.
+Welcome to Sahara Scripters! We create high-quality free and premuim scripts for FiveM servers, designed to enhance your server and bring your ideas to life. Our focus is on reliability, performance, and making everything easy to use. 
 
-At Sahara Scripters, we pride ourselves on delivering:
-- **Reliable** and **optimized** scripts
-- **User-friendly** tools that integrate smoothly into your server
-- A commitment to **excellence** and **performance**
-
-Our passion for FiveM development goes beyond coding, we’re dedicated to fostering a **community of like-minded enthusiasts**.  
-
-📢 **Join us on [Discord](https://discord.gg/kQxzuyqnkR)** to connect, share ideas, and stay updated on our latest projects.  
-☕ **Support us on [Ko-fi](https://ko-fi.com/saharascripters)** and help us continue crafting innovative solutions for the FiveM community.
-
-Explore our offerings and let us help you bring your server’s vision to life.  
-**Sahara Scripters**—where innovation powers your server.
-
+- 📢 **Join us on [Discord](https://discord.gg/kQxzuyqnkR)** to connect, share ideas, and stay updated on our latest projects.
+- ☕ **Support us on [Ko-fi](https://ko-fi.com/saharascripters)** and help us continue crafting innovative solutions for the FiveM community.
+- 🛒 **Check out our [Tebex Store](https://saharascripters.tebex.io/)** for a wide range of high-quality free and premium scripts to enhance your FiveM server.
 
 ## 📚 Documentation
-https://saharascripters.gitbook.io/docs
+🔍 **Explore our [Documentation](https://saharascripters.gitbook.io/docs)** for everything you need to get started with our scripts and tools. 📚 Stay informed and make the most out of what we offer!
 
 ## 🌐 Connect With Us
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kQxzuyqnkR)
